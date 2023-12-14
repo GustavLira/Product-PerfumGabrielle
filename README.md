@@ -23,9 +23,8 @@ O principal objetivo deste projeto é criar uma interface atraente e funcional u
 Você pode conferir o design da interface no [link do Desafio](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) para ter uma visão detalhada de como o projeto se parece.
 
 ## Preview
-![preview]
 
-
+![Preview Product](https://github.com/GustavLira/Product-PerfumGabrielle/assets/140671152/1c86d4e6-2b52-444a-8f74-3a14ac2010a3)
 
 ## Deploy
 O projeto está disponível em [Product-PerfumGabrielle no Vercel](https://product-perfum-gabrielle.vercel.app) para visualização.
